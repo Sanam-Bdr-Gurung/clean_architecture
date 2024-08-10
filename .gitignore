@@ -1,0 +1,70 @@
+# Flutter/Dart related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies.lock
+.generated/
+pubspec.lock
+pubspec_overrides.yaml
+.symlinks/
+analysis_options.yaml
+flutter_export_environment.sh
+version.json
+integration_test/
+# Secrets and keys
+*.key
+*.pem
+*.cer
+*.p12
+
+# IDEs and Editors
+# (Uncomment if using)
+# IntelliJ related files
+.idea/
+*.iml
+# VS Code related files
+.vscode/
+# Android Studio related files
+.gradle/
+*.hprof
+
+# iOS related files
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace/
+# Xcode automatically generated files
+*.xcuserdata/
+*.xcuserstate
+
+# Android related files
+android/.gradle/
+android/app/proguard-rules.pro
+android/app/build/
+android/local.properties
+android/.idea/
+
+# Build output
+build/
+*.apk
+*.aab
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Web related files
+web/.dart_tool/
+
+# Miscellaneous
+*.log
+*.tmp
+*.swp
+*.lock
+*.lock.lock
+.DS_Store
+*.orig
+
+# Firebase related files
+firebase_*.json
+firebase_*.plist
