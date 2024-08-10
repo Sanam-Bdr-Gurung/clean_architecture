@@ -28,5 +28,4 @@ class RemoteArticlesBloc extends Bloc<RemoteArticlesEvent,RemoteArticlesState> {
       );
     }
   }
-  
 }
